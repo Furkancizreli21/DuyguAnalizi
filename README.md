@@ -1,5 +1,7 @@
 # DuyguAnalizi
 Bu proje film repliklerinden duyguları (Negative, Neutral, Positive) tahmin eder.
+
+
 Projeyi başlatmak için sadece proje dizininde "python Project.py" komutunu çalıştırın.
 
 
